@@ -1,0 +1,16 @@
+Executable : C:\Users\User\AppData\Local\Android\Sdk\ndk\21.3.6528147\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=F:\BelajarAndroid\OpenCV-android-sdk\sdk\native\jni\OpenCV.mk
+APP_ABI=x86_64
+NDK_ALL_ABIS=x86_64
+NDK_DEBUG=1
+APP_PLATFORM=android-16
+NDK_OUT=F:/BelajarAndroid1/UILogin/java/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=F:\BelajarAndroid1\UILogin\java\build\intermediates\ndkBuild\debug\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

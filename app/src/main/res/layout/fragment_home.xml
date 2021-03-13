@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment"
+
+   >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/logoImg"
+                android:layout_width="87dp"
+                android:layout_height="76dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/asset19" />
+
+
+
+            <TextView
+                android:id="@+id/text_app2"
+                android:layout_width="352dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:text="@string/text_periksa"
+                android:textColor="@color/bg_slider_screen3"
+                android:textSize="20sp"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="564dp" />
+
+
+            <Button
+                android:id="@+id/open_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add Image" />
+
+
+            <ImageView
+                android:id="@+id/showImg"
+                android:layout_width="match_parent"
+                android:layout_height="311dp"
+                android:src="@drawable/photo" />
+
+            <TextView
+                android:id="@+id/text_gallery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/diagnosis_result"
+                android:textColor="@color/colorAccent"
+                android:textSize="25sp"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="564dp" />
+
+            <TextView
+                android:id="@+id/text_mean"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="564dp" />
+
+            <TextView
+                android:id="@+id/text_ket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="564dp"
+                android:textColor="@color/colorPrimary"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

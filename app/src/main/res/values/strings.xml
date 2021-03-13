@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Aplikasi Pendeteksi Kerusakan Kulit Wajah</string>
+    <string name="title_activity_tabbed">Tabbed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aplikasi Pendeteksi Kerusakan Kulit Wajah</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="diagnosis_result">Diagnosis Result</string>
+    <string name="mean">mean</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Apakah Anda Sudah Memiliki Akun?</string>
+    <string name="slide_1_desc">Jika belum, anda hanya perlu mengisi email dan password lalu tekan tombol Sign up</string>
+    <string name="slide_2_title">Apa itu aplikasi pendeteksi jenis kerusakan kulit wajah?</string>
+    <string name="slide_2_desc">Aplikasi pendeteksi kerusakan kulit wajah adalah aplikasi yang dapat membantu anda mendapatkan alternatif diagnosa tentang jenis jerawat inflamasi yang dialami kulit anda</string>
+    <string name="slide_3_title">Bagaimana cara menggunakan aplikasi ini ?</string>
+    <string name="slide_3_desc1">Pertama, ambil gambar pada bagian kulit wajah yang ingin anda deteksi.</string>
+    <string name="slide_3_desc2">Kedua, hasil diagnosa akan langsung  ditampilkan setelah gambar di tambahkan pada result diagnosis.</string>
+    <string name="slide_3_desc3">Ketiga, anda dapat melihat history diagnosa yang pernah dilakukan pada menu history.</string>
+    <string name="text_periksa">Ayo periksa jenis kerusakan kulit anda, masukkan gambar dengan klik Add Image</string>
+    <string name="play_again_desc">Untuk melihatnya lagi Settings -> apps -> Intro View -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>
