@@ -1,0 +1,2 @@
+# Android-Application-for-Detecting-Facial-Skin-Damage-Using-2D-Gabor-Wavelet-and-GLCM-
+This application is the implementation of 2D Gabor Wavelets and GLCM for detecting facial skin damage. This app had the data of the characteristic value of each skin damage by 2D Gabor wavelets dan GLCM. User detecting an image of facial skin, then the app will take the characteristic value of the image and classified using KNN.
